@@ -1,13 +1,15 @@
 import { useState } from 'react'
-import './App.css'
 import React from 'react'
+import './App.css'
+// import LoginPage from './pages/LoginPage'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <p className='bg-amber-950'>jgfjgdjgf</p>
+      {/* <LoginPage/> */}
+      <p>hghghg</p>
     </>
   )
 }
